@@ -8,6 +8,8 @@ import { getCurrentUser } from '../firebase'
 
 import artistas from '../artists'
 
+import { Notifications } from 'expo'
+
 class HomeScreen extends React.Component {
   state = {
     result: null,

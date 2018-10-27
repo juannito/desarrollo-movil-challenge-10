@@ -2,12 +2,12 @@ import firebase from 'firebase'
 import 'firebase/firestore'
 
 const config = {
-  apiKey: 'AIzaSyDcvAVDGSr5otrT1HeJOZK44jZ8R6iM6aI',
-  authDomain: 'coderhouse-test.firebaseapp.com',
-  databaseURL: 'https://coderhouse-test.firebaseio.com',
-  projectId: 'coderhouse-test',
-  storageBucket: 'coderhouse-test.appspot.com',
-  messagingSenderId: '834425741739',
+  apiKey: 'AIzaSyD-KkwnWLAoLn7uxI_uw4G77zxmYg8UwEs',
+  authDomain: 'coderhousefenix.firebaseapp.com',
+  databaseURL: 'https://coderhousefenix.firebaseio.com',
+  projectId: 'coderhousefenix',
+  storageBucket: 'coderhousefenix.appspot.com',
+  messagingSenderId: '714376096291',
 }
 
 firebase.initializeApp(config)
